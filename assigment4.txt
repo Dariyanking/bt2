@@ -1,0 +1,21 @@
+exp no4
+mkdir assigment
+cd assigment
+npm init -y
+npm install --save-dev hardhat@2.22.15
+npx hardhat --init
+npx hardhat node
+
+rcp server https://127.0.0.1:8545
+add hardhat network to meatmask 
+network -> add network
+network name : Hardhat Local
+rcp server https://127.0.0.1:8545
+chain id 31337
+currency symoble go
+
+transtion 
+send ->recipient address 
+amount
+
+
