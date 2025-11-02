@@ -1,0 +1,7 @@
+expno 2
+Pnpm install
+ Npx hardhat complie
+Npx hardhat node
+Npx hardhat run scripts/deploy.js  --network localhost
+Npx hardhat run scripts/test-contract.js --network localhost
+Python -m http.server 8000
